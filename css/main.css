@@ -1,0 +1,67 @@
+body {
+  background-color: ivory;
+  color: #555;
+}
+
+.wittyquote {
+  font-weight: normal;
+}
+
+h1 {
+  font-size: 2rem;
+}
+
+h2 {
+  font-size: 1.5rem;
+  margin-top: 0.5rem;
+}
+
+article {
+  background-color: lightblue;
+  border: 1px solid grey;
+  border-radius: 3px;
+  margin-left: 15%;
+  margin-top: 2rem;
+  padding: 1rem 2rem;
+  width: 20rem;
+}
+
+.leadstolist {
+  /*background-color: lightgreen;*/
+  /*border: 1px solid black;*/
+  margin-bottom: 0;
+}
+
+ul {
+  /*background-color: orange;*/
+  /*border: 1px solid black;*/
+  margin-top: 0;
+}
+
+footer {
+  text-align: center;
+}
+
+.redText {
+  color: red;
+}
+
+.blueText {
+  color: blue;
+}
+
+.greenText {
+  color: green;
+}
+
+.underlineText {
+  text-decoration: underline;
+}
+
+.strikethroughText {
+  text-decoration: line-through;
+}
+
+.profile-picture {
+  width: 100%;
+}
